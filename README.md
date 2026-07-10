@@ -8,7 +8,7 @@ I design simple, thoughtful, and user-centered digital experiences.
 
 Currently exploring the intersection of **design, technology, and data**.
 
-[Portfolio](YOUR_PORTFOLIO_LINK) • [LinkedIn](YOUR_LINKEDIN) • [Email](mailto:mejoradaayen1102@gmail.com)
+[Portfolio](https://ayen-mejorada.notion.site/Ayen-Mejorada-s-Portfolio-29df25699f9482e0b4da01ea4cb226ce) • [LinkedIn](https://www.linkedin.com/in/ayen-mejorada-0172a53b3/) • [Email](mailto:mejoradaayen1102@gmail.com)
 
 </div>
 
@@ -82,11 +82,11 @@ Good interfaces shouldn't require explanation—they should feel natural.
 
 📧 mejoradaayen1102@gmail.com
 
-🌐 Portfolio: YOUR_PORTFOLIO
+🌐 Portfolio: [Ayen's Portfolio](https://ayen-mejorada.notion.site/Ayen-Mejorada-s-Portfolio-29df25699f9482e0b4da01ea4cb226ce)
 
-💼 LinkedIn: YOUR_LINKEDIN
+💼 LinkedIn: [Ayen Mejorada](https://www.linkedin.com/in/ayen-mejorada-0172a53b3/)
 
-📷 Instagram: YOUR_INSTAGRAM
+📷 Instagram: [mejorada_ayen](https://www.instagram.com/mejorada_ayen/)
 
 ---
 <div align="center">
